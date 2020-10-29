@@ -3,7 +3,8 @@ body
   margin: 0;  
   padding: 0;  
   background-color:#6abadeba;  
-  font-family: 'Arial';  
+  font-family: "Quicksand", sans-serif;
+  background-image: url("./images/login-cover.jpg"); 
 }  
 .login{  
   width: 382px;  
@@ -11,17 +12,18 @@ body
   margin: auto;  
   margin: 20 0 0 450px;  
   padding: 80px;  
-  background: #23463f;  
+  background: skyblue;  
   border-radius: 15px ;  
           
 }  
-h2{  
-  text-align: center;  
-  color: #277582;  
-  padding: 20px;  
+h1{  
+  text-align: center; 
+  font-family: 'Kaushan Script', cursive; 
+  color:black;  
+  padding: 70px;  
 }  
 label{  
-  color: #08ffd1;  
+  color: black;  
   font-size: 17px;  
 }  
 #Uname{  
